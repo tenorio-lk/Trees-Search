@@ -16,7 +16,7 @@ Utilizando Jupyter Notebook
 
 Estudiantes: 			      	      
 * Diego Tenorio Solís 
-* Jimmy Fallas	      
+* Jimmy Fallas Delgado	      
 ------------------------------------------------
 
 ---------------	
